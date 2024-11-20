@@ -1,6 +1,8 @@
 ### Custom Template
 .idea
+target
 generator.iml
+generator-basic.iml
 
 ### Java template
 # Compiled class file
